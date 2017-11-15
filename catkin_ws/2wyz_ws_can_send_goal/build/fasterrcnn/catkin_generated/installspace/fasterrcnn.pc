@@ -1,0 +1,8 @@
+prefix=/home/zq610/WYZ/wyz_ws/install
+
+Name: fasterrcnn
+Description: Description of fasterrcnn
+Version: 0.0.0
+Cflags: -I/home/zq610/WYZ/wyz_ws/install/include
+Libs: -L/home/zq610/WYZ/wyz_ws/install/lib 
+Requires: message_runtime

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libtld.so -o /home/zq610/WYZ/wyz_ws/devel/lib/libtld.so CMakeFiles/tld.dir/src/TLD.cpp.o 

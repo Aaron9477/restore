@@ -1,0 +1,2 @@
+fasterrcnn:tld
+-DCATKIN_DEVEL_PREFIX=/home/zq610/WYZ/wyz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zq610/WYZ/wyz_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/zq610/WYZ/wyz_ws/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zq610/WYZ/wyz_ws/install/lib 
+Requires: 
