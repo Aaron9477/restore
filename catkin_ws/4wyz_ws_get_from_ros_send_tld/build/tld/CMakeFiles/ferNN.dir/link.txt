@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libferNN.so -o /home/zq610/WYZ/wyz_ws/devel/lib/libferNN.so CMakeFiles/ferNN.dir/src/FerNNClassifier.cpp.o 

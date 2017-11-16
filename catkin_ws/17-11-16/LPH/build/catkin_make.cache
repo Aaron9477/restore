@@ -1,0 +1,2 @@
+cv_image_wyz:rbx1/rbx1:rbx1/rbx1_apps:rbx1/rbx1_bringup:rbx1/rbx1_description:rbx1/rbx1_dynamixels:rbx1/rbx1_nav:rbx1/rbx1_speech:rbx1/rbx1_vision
+-DCATKIN_DEVEL_PREFIX=/home/zq610/LPH/devel -DCMAKE_INSTALL_PREFIX=/home/zq610/LPH/install -G Unix Makefiles

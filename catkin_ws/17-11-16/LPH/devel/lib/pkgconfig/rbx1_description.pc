@@ -1,0 +1,8 @@
+prefix=/home/zq610/LPH/devel
+
+Name: rbx1_description
+Description: Description of rbx1_description
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/zq610/LPH/devel/lib 
+Requires: 

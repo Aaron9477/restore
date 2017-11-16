@@ -1,0 +1,8 @@
+prefix=/home/zq610/LPH/devel
+
+Name: cv_image_wyz
+Description: Description of cv_image_wyz
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zq610/LPH/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ros2cv:tld_origin:vision_opencv-kinetic/cv_bridge:vision_opencv-kinetic/image_geometry:vision_opencv-kinetic/opencv_tests:vision_opencv-kinetic/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/zq610/WYZ/wyz2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zq610/WYZ/wyz2_ws/install -G Unix Makefiles
