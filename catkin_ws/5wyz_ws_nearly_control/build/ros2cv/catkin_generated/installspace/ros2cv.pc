@@ -1,0 +1,8 @@
+prefix=/home/zq610/WYZ/wyz2_ws/install
+
+Name: ros2cv
+Description: Description of ros2cv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zq610/WYZ/wyz2_ws/install/lib 
+Requires: 
