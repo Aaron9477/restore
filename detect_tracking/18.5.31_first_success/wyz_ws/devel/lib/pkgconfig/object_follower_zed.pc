@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/WYZ/wyz_ws/devel
+
+Name: object_follower_zed
+Description: Description of object_follower_zed
+Version: 0.0.0
+Cflags: -I/home/ubuntu/WYZ/wyz_ws/devel/include
+Libs: -L/home/ubuntu/WYZ/wyz_ws/devel/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/WYZ/wyz2_ws/install
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.12.5
+Cflags: 
+Libs: -L/home/ubuntu/WYZ/wyz2_ws/install/lib 
+Requires: 

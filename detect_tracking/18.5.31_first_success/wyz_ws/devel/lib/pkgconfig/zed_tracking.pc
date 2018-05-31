@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/WYZ/wyz_ws/devel
+
+Name: zed_tracking
+Description: Description of zed_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/WYZ/wyz_ws/devel/lib 
+Requires: 

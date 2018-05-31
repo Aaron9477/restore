@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/WYZ/wyz2_ws/devel
+
+Name: fasterrcnn2
+Description: Description of fasterrcnn2
+Version: 0.0.0
+Cflags: -I/home/ubuntu/WYZ/wyz2_ws/devel/include
+Libs: -L/home/ubuntu/WYZ/wyz2_ws/devel/lib 
+Requires: message_runtime

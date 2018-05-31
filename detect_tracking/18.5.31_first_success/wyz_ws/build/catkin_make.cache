@@ -1,0 +1,2 @@
+my_image_transport:object_follower_zed:tld:usb_cam:vision_opencv-kinetic/cv_bridge:vision_opencv-kinetic/image_geometry:vision_opencv-kinetic/opencv_tests:vision_opencv-kinetic/vision_opencv:zed_tracking
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/WYZ/wyz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/WYZ/wyz_ws/install -G Unix Makefiles

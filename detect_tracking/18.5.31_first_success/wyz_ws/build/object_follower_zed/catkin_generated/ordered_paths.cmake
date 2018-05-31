@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/ubuntu/WYZ/wyz_ws/devel/lib;/opt/ros/kinetic/lib")
